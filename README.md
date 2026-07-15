@@ -23,18 +23,32 @@ The application is completely integrated with **Firebase** to provide a robust c
 
 ---
 
-## 📸 Screenshots Showcase
+## 📸 Screenshots Showcase (Hierarchical Layout)
 
-| 🎨 Splash & Authentication | 📱 Dynamic Home Screen (AR / EN) |
-| :---: | :---: |
-| <img src="description image/Screenshot 2026-07-15 235850.png" width="200"/> <img src="description image/Screenshot 2026-07-15 235912.png" width="200"/> <img src="description image/Screenshot 2026-07-15 235922.png" width="200"/> | <img src="description image/Screenshot 2026-07-16 000005.png" width="200"/> <img src="description image/Screenshot 2026-07-16 000103.png" width="200"/> |
+<div align="center">
+  <h3>🌟 Start</h3>
+  <img src="description image/Screenshot 2026-07-15 235850.png" width="220"/>
+  <br><br>
 
-| 📦 Details & Quantity Selector | ⭐ Favorites & 🛒 Cart Management |
-| :---: | :---: |
-| <img src="description image/Screenshot 2026-07-16 000144.png" width="200"/> | <img src="description image/Screenshot 2026-07-16 000111.png" width="200"/> <img src="description image/Screenshot 2026-07-16 000125.png" width="200"/> |
+  <h3>🔥 User Flow</h3>
+  <img src="description image/Screenshot 2026-07-15 235912.png" width="200"/> &nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="description image/Screenshot 2026-07-15 235922.png" width="200"/>
+  <br><br>
 
-### 🔥 Firebase Cloud Firestore Console
-<img src="description image/Screenshot 2026-07-16 002625.png" width="700"/>
+  <h3>📱 The Store & Features</h3>
+  <img src="description image/Screenshot 2026-07-16 000005.png" width="180"/> &nbsp;&nbsp;
+  <img src="description image/Screenshot 2026-07-16 000144.png" width="180"/> &nbsp;&nbsp;
+  <img src="description image/Screenshot 2026-07-16 000125.png" width="180"/>
+  <br><br>
+
+  <h3>🌍 Internationalization & ⭐ Favorites</h3>
+  <img src="description image/Screenshot 2026-07-16 000103.png" width="200"/> &nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="description image/Screenshot 2026-07-16 000111.png" width="200"/>
+  <br><br>
+
+  <h3>🔥 Backend Backbone</h3>
+  <img src="description image/Screenshot 2026-07-16 002625.png" width="800"/>
+</div>
 
 ---
 
