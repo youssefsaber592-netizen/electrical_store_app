@@ -67,10 +67,7 @@ lib/
 ├── language_manager.dart      # Dynamic localization handler
 ├── constants.dart             # App themes, colors & padding constants
 └── main.dart                  # App entrance & initialization
-Backend Platform: Firebase (Cloud Firestore)
 
-Fonts: Google Fonts (Almarai)
-زز
 ```
 🚀 How to Run
 Follow these steps to run the project locally:
@@ -91,6 +88,7 @@ Run the app:
 
 Bash
 flutter run
+
 🛠️ Tech Stack & Libraries
 Framework: Flutter (Dart)
 
