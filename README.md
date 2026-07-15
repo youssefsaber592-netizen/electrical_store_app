@@ -27,14 +27,14 @@ The application is completely integrated with **Firebase** to provide a robust c
 
 | 🎨 Splash & Authentication | 📱 Dynamic Home Screen (AR / EN) |
 | :---: | :---: |
-| <img src="screenshots/Screenshot 2026-07-15 235850.png" width="200"/> <img src="screenshots/Screenshot 2026-07-15 235912.png" width="200"/> <img src="screenshots/Screenshot 2026-07-15 235922.png" width="200"/> | <img src="screenshots/Screenshot 2026-07-16 000005.png" width="200"/> <img src="screenshots/Screenshot 2026-07-16 000103.png" width="200"/> |
+| <img src="description image/Screenshot 2026-07-15 235850.png" width="200"/> <img src="description image/Screenshot 2026-07-15 235912.png" width="200"/> <img src="description image/Screenshot 2026-07-15 235922.png" width="200"/> | <img src="description image/Screenshot 2026-07-16 000005.png" width="200"/> <img src="description image/Screenshot 2026-07-16 000103.png" width="200"/> |
 
 | 📦 Details & Quantity Selector | ⭐ Favorites & 🛒 Cart Management |
 | :---: | :---: |
-| <img src="screenshots/image_4ecc83.png" width="200"/> | <img src="screenshots/Screenshot 2026-07-16 000111.png" width="200"/> <img src="screenshots/Screenshot 2026-07-16 000125.png" width="200"/> |
+| <img src="description image/Screenshot 2026-07-16 000144.png" width="200"/> | <img src="description image/Screenshot 2026-07-16 000111.png" width="200"/> <img src="description image/Screenshot 2026-07-16 000125.png" width="200"/> |
 
 ### 🔥 Firebase Cloud Firestore Console
-<img src="screenshots/Screenshot 2026-07-16 002625.png" width="700"/>
+<img src="description image/Screenshot 2026-07-16 002625.png" width="700"/>
 
 ---
 
