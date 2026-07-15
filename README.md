@@ -67,3 +67,31 @@ lib/
 ├── language_manager.dart      # Dynamic localization handler
 ├── constants.dart             # App themes, colors & padding constants
 └── main.dart                  # App entrance & initialization
+
+🚀 How to Run
+Follow these steps to run the project locally:
+
+Clone the repository:
+
+Bash
+git clone [https://github.com/youssefsaber592-netizen/electrical_store_app.git](https://github.com/youssefsaber592-netizen/electrical_store_app.git)
+Navigate into the directory:
+
+Bash
+cd store_app
+Get dependencies:
+
+Bash
+flutter pub get
+Run the app:
+
+Bash
+flutter run
+🛠️ Tech Stack & Libraries
+Framework: Flutter (Dart)
+
+Backend Platform: Firebase (Cloud Firestore)
+
+Fonts: Google Fonts (Almarai)
+
+State Management: Statefully updated components for local operations
